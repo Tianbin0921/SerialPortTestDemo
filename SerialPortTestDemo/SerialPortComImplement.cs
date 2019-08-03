@@ -29,12 +29,12 @@ namespace SerialPortTestDemo
             serialPort.DataBits = dataBits;    //数据位
             serialPort.StopBits = StopBits.One;//停止位
             serialPort.ReadTimeout = 500;      //读取数据的超时时间，引发ReadExisting异常
-            serialPort.WriteBufferSize = 1024;
-            serialPort.ReadBufferSize = 1024;
+            //serialPort.WriteBufferSize = 1024;
+            //serialPort.ReadBufferSize = 1024;
             //serialPort.RtsEnable = true;
             //serialPort.DtrEnable = true;
             //serialPort.ReceivedBytesThreshold = 1;
-            serialPort.Encoding = System.Text.Encoding.GetEncoding("GB2312");
+            //serialPort.Encoding = System.Text.Encoding.GetEncoding("GB2312");
             //serialPort.DataReceived += new SerialDataReceivedEventHandler(serialPort_DataReceivedEventHandler);
         }
 
@@ -203,8 +203,7 @@ namespace SerialPortTestDemo
             {
                 if (serialPort.IsOpen && serialPort.BytesToRead > 0)
                 {
-                    string s = serialPort.ReadExisting();
-                    return serialPort.ReadLine();
+                    return serialPort.ReadExisting();
                 }
 
                 return null;
