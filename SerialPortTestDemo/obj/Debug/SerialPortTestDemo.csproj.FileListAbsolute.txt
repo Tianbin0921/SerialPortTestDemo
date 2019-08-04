@@ -7,3 +7,12 @@ E:\Projects\Temperature\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPo
 E:\Projects\Temperature\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.csproj.GenerateResource.Cache
 E:\Projects\Temperature\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.exe
 E:\Projects\Temperature\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.pdb
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\bin\Debug\SerialPortTestDemo.exe.config
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.exe
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.pdb
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\bin\Debug\SerialPortTestDemo.exe
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\bin\Debug\SerialPortTestDemo.pdb
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.csprojResolveAssemblyReference.cache
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.Form1.resources
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.Properties.Resources.resources
+D:\Projects\SerialPortTestDemo\SerialPortTestDemo\obj\Debug\SerialPortTestDemo.csproj.GenerateResource.Cache

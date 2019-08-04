@@ -25,7 +25,7 @@ namespace SerialPortTestDemo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            serialPort = new SerialPortComImplement("COM3", 9600, 8);
+            serialPort = new SerialPortComImplement("COM4", 9600, 8);
             if (serialPort.IsOpen)
             {
                 serialPort.Close();
